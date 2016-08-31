@@ -1,0 +1,16 @@
+CACHE MANIFEST  
+#VERSION 1.0  
+CACHE:  
+index.html
+css/bootstrap.min.css
+css/font-awesome.min.css
+css/templatemo-style.css
+js/vendor/modernizr-2.6.2-respond-1.1.0.min.js
+images/pattern.jpg
+imgs/daifuku.jpg
+js/vendor/jquery-1.11.1.min.js
+js/vendor/bootstrap.min.js
+js/detail.js
+imgs/tinrry.jpg
+imgs/qrw.jpg
+
